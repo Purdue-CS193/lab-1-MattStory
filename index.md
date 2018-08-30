@@ -1,4 +1,10 @@
-## This changes the heading
+#Matt Story's First CS193 Lab
+
+Some of my favorite things about CS 193 Include:
+ -The Teachers
+ -The teaching style
+ -Learning about the basics
+ -It's low stress
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
